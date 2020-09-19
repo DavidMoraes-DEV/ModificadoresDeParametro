@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.exe
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.deps.json
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.genruntimeconfig.cache
