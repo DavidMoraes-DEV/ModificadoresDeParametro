@@ -11,3 +11,16 @@ C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorPara
 C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.dll
 C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.pdb
 C:\ProgramasCSharp\ConceitoDeModificadorParams\ModificadorParams\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.genruntimeconfig.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.exe
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.deps.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\bin\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.AssemblyInfo.cs
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.dll
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.pdb
+C:\Users\David\Source\Repos\DavidMoraes-DEV\ModificadoresDeParametro\ModificadorParams\obj\Debug\netcoreapp3.1\ModificadorParams.genruntimeconfig.cache
